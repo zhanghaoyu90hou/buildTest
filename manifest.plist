@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.31.119/ipa/buildTest.ipa</string>
+					<string>http://192.168.31.119/ipa/SeasameBox.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -23,19 +23,19 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.31.119/ipa/buildtest.512*512.png</string>
+					<string>http://192.168.31.119/ipa/buildtest.57*57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>test.buildTest</string>
+				<string>com.xueersi.sesamebox-test</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>buildTest</string>
+				<string>SesameBox</string>
 			</dict>
 		</dict>
 	</array>
