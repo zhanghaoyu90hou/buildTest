@@ -25,7 +25,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.31.119/ipa/SesameBox.57*57.png</string>
+					<string>http://192.168.31.119/ipa/SesameBox.512*512.png</string>
 <!-- 					<string>http://10.4.3.135/ipa/buildtest.512*512.png</string> -->
 				</dict>
 			</array>
