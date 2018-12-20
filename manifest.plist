@@ -39,6 +39,8 @@
 				<string>software</string>
 				<key>title</key>
 				<string>SesameBox</string>
+				<key>bundle-version</key>
+               			<string>14</string>
 			</dict>
 		</dict>
 	</array>
